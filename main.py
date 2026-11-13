@@ -136,6 +136,7 @@ def main():
     game = QuizGame()
     try:
         while True:
+            print("환영합니다! 재미있는 퀴즈 게임을 시작합니다.")
             print("\n==== 퀴즈 게임 메뉴 ====")
             print("1. 퀴즈 풀기")
             print("2. 퀴즈 추가")
