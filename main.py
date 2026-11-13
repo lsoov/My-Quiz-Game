@@ -1,6 +1,6 @@
 import json
 import os
-
+# 퀴즈정보를 담는 클래스
 class Quiz:
     def __init__(self, question, choices, answer):
         self.question = question
