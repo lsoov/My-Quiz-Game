@@ -61,4 +61,27 @@ feature/기능명: 새로운 기능(예: 퀴즈 추가 기능) 개발 시 독립
 저장 포맷 변경 (예: CSV)	main.py	QuizGame.load_data, QuizGame.save_data
 퀴즈 필터링 기능 추가	main.py	QuizGame.play_quiz (카테고리별 조건문 추가)
 
+---
+## 📸 미션 수행 결과 (스크린샷)
+
+<details>
+<summary>여기를 클릭하여 스크린샷 확인</summary>
+
+### 1. 메뉴 및 퀴즈 실행 화면
+![실행화면](./screenshots/1_menu_quiz.png)
+
+### 2. 비정상 종료(Ctrl+C) 처리
+![종료화면](./screenshots/2_exit_test.png)
+
+### 3. Git 커밋 내역 (10개 이상)
+![커밋내역](./screenshots/3_git_log.png)
+
+### 4. 브랜치 병합(Merge) 그래프
+![그래프](./screenshots/4_git_graph.png)
+
+### 5. Git Pull 실습 결과
+![Pull결과](./screenshots/5_git_pull.png)
+
+</details>
+
  
