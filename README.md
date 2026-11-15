@@ -13,8 +13,7 @@ git pull origin main
 
 # 3. 프로그램 실행
 python main.py
-```
-# 실습증빙 스크린샷 
+``` 
 
 ## 2. 클래스 설계 및 역할
 본 프로그램은 유지보수와 확장성을 위해 두 개의 주요 클래스로 구성되었습니다.
@@ -68,19 +67,19 @@ feature/기능명: 새로운 기능(예: 퀴즈 추가 기능) 개발 시 독립
 <summary>여기를 클릭하여 스크린샷 확인</summary>
 
 ### 1. 메뉴 및 퀴즈 실행 화면
-![실행화면](./screenshots/1_menu_quiz.png)
+![실행화면](./1_menu_quiz.png)
 
 ### 2. 비정상 종료(Ctrl+C) 처리
-![종료화면](./screenshots/2_exit_test.png)
+![종료화면](./2_exit_test.png)
 
 ### 3. Git 커밋 내역 (10개 이상)
-![커밋내역](./screenshots/3_git_log.png)
+![커밋내역](./3_git_log.png)
 
 ### 4. 브랜치 병합(Merge) 그래프
-![그래프](./screenshots/4_git_graph.png)
+![그래프](./4_git_graph.png)
 
 ### 5. Git Pull 실습 결과
-![Pull결과](./screenshots/5_git_pull.png)
+![Pull결과](./5_git_pull.png)
 
 </details>
 
