@@ -6,7 +6,7 @@
 
 ```powershell
 # 1. 저장소 복제 (Clone)
-git clone <https://github.com/lsoov/My-Quiz-Game>
+git clone https://github.com/lsoov/My-Quiz-Game
 
 # 2. 저장소 업데이트 (Pull)
 git pull origin main
