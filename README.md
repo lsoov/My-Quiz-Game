@@ -5,13 +5,16 @@
 이 프로젝트를 로컬 환경에 복제하고 실행하는 방법입니다.
 
 ```powershell
-# 1. 저장소 복제 (Clone)
+# 1. 작업할 폴더로 이동 (예: 바탕화면)
+cd ~/Desktop
+
+# 2. GitHub 저장소 복제 (URL 양쪽에 < > 괄호를 붙이지 마세요)
 git clone https://github.com/lsoov/My-Quiz-Game
 
-# 2. 저장소 업데이트 (Pull)
-git pull origin main
+# 3. 복제된 프로젝트 폴더 안으로 이동 (필수)
+cd My-Quiz-Game
 
-# 3. 프로그램 실행
+# 4. 프로그램 실행
 python main.py
 ``` 
 
